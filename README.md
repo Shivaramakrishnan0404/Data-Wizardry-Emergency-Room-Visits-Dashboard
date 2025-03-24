@@ -35,6 +35,3 @@ Time-based heatmap showing average ER wait times by hour and day of the week. Us
 Breakdown of where patients were referred post-ER, with General Practice and Orthopedics receiving the most referrals.
 
 🖼️ Dashboard Snapshot
-markdown
-Copy
-Edit
