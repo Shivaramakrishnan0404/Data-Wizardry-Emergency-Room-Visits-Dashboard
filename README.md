@@ -1,4 +1,5 @@
-🏥 #Emergency Room Visits Dashboard | Healthcare Insights
+# 🏥 Data Wizardry: Emergency Room Visits Dashboard (Healthcare Analytics)
+
 The Data Wizardry Emergency Room (ER) Visits Dashboard offers a visual analysis of patient flow, wait times, demographics, and departmental referrals in a hospital emergency setting. This dashboard enables healthcare analysts and decision-makers to monitor key performance metrics and patient trends for improved service delivery.
 
 📊 Key Metrics:
